@@ -26,7 +26,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "oauth": "git@github.com:robtarr/node-oauth.git",
+    "oauth": "git@github.com:robtarr/node-oauth.git#master",
     "request": "2.9.x",
     "connect": "2.3.x",
     "openid": ">=0.2.0",
